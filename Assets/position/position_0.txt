@@ -1,0 +1,1 @@
+Banana(Clone)-[(-0.86, 0.28, -0.51)], Banana(Clone)-[(-0.69, 0.27, 0.47)], Banana(Clone)-[(0.06, 0.09, -1.95)], Banana(Clone)-[(0.31, 0.09, 0.21)], Apple(Clone)-[(-0.29, 0.29, -1.40)], Apple(Clone)-[(0.37, 0.29, -0.92)], Banana(Clone)-[(1.02, 0.29, -0.97)], Apple(Clone)-[(-0.14, 0.39, -0.37)], Banana(Clone)-[(-1.05, 0.09, -0.41)], Banana(Clone)-[(-1.24, -0.02, 0.65)], 
